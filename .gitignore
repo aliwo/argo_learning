@@ -1,0 +1,6 @@
+Chart.lock
+*.tgz
+
+# intellij
+.idea
+*.iml
